@@ -3,5 +3,9 @@ body, html{
     background-color: green;
     text-align: center;
     cursor: url("small.png"), pointer;
+    
 
+}
+html {
+  scroll-behavior: smooth;
 }
