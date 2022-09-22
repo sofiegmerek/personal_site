@@ -3,7 +3,8 @@ body, html{
     background-color: green;
     text-align: center;
     cursor: url("small.png"), pointer;
-    
+    font-family: Helvetica, sans-serif;
+
 
 }
 html {
