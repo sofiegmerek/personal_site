@@ -5,9 +5,8 @@ body, html{
     cursor: url("small.png"), pointer;
     font-family: Tahoma, sans-serif;
 
+  scroll-behavior: smooth;
 
 }
-html {
-  scroll-behavior: smooth;
-}
+
 </style>
