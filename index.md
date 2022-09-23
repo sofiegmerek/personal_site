@@ -6,9 +6,6 @@ body, html{
     color: black
   scroll-behavior: smooth;
  
-
-}
-.content{
     margin-top: 50px;
      margin: auto
   justify-content: center;
@@ -19,15 +16,8 @@ body, html{
     color: black
   scroll-behavior: smooth;
 }
-/* The navigation bar */
-
-.navbar a:hover {
-  background: #D282A6;
-  color: black;
-}
  </style>
 
-<div class="content">
 
 # Sofie Gmerek
 
@@ -68,5 +58,3 @@ Some of my goals for this quarter are
 - [ ] Meet new people
 - [ ] Try to have less stress
 - [X] Get started early
-
-</div>
