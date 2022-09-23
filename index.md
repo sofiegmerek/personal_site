@@ -8,12 +8,13 @@ body, html{
   max-width: 960px
   margin: auto
   justify-content: center;
+img[alt=my_headshot] { width: 400px; }
 
 }
  </style>
 # Sofie Gmerek
 
-<a name="headshot"></a>![my headshot](headshot1.jpeg) 
+<a name="headshot"></a>![my_headshot](headshot1.jpeg) 
 ## Welcome to my personal website, I am currently a computer science student at UCSD and will be graduating in Spring 2023
 
 **I enjoy programming, gardening, embroidery, and volunteering with the non profit the Doris Dillon School in Cambodia.**
