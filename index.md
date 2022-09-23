@@ -13,6 +13,11 @@ body, html{
      margin: auto
   justify-content: center;
    max-width: 960px
+      background-color: #F5E3E0;
+    cursor: url("small.png"), pointer;
+    font-family: Tahoma, sans-serif;
+    color: black
+  scroll-behavior: smooth;
 }
 /* The navigation bar */
 .navbar {
