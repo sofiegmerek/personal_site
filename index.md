@@ -1,7 +1,6 @@
 <style>
 body, html{
     background-color: #F5E3E0;
-    text-align: center;
     cursor: url("small.png"), pointer;
     font-family: Tahoma, sans-serif;
     color: black
