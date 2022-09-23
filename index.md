@@ -20,33 +20,12 @@ body, html{
   scroll-behavior: smooth;
 }
 /* The navigation bar */
-.navbar {
-  overflow: hidden;
-  background-color: #6E4555;
-  position: fixed; 
-  top: 0; 
-  width: 100%; 
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 
 .navbar a:hover {
   background: #D282A6;
   color: black;
 }
  </style>
- <div class="navbar">
-  <a href="#home">About Me</a>
-  <a href="#news">Resume</a>
-  <a href="#contact">Contact</a>
-</div>
 
 <div class="content">
 
