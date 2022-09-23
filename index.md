@@ -7,6 +7,7 @@ body, html{
   scroll-behavior: smooth;
   max-width: 960px
   margin: auto
+  justify-content: center;
 
 }
  </style>
