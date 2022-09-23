@@ -4,6 +4,7 @@ body, html{
     text-align: center;
     cursor: url("small.png"), pointer;
     font-family: Tahoma, sans-serif;
+    color: black
 
   scroll-behavior: smooth;
 
