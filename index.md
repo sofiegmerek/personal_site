@@ -6,7 +6,6 @@ body, html{
     color: black
   scroll-behavior: smooth;
  
- 
 
 }
 .content{
@@ -15,8 +14,6 @@ body, html{
   justify-content: center;
    max-width: 960px
 }
-img[alt=my_headshot] { width: 400px; }
-
 /* The navigation bar */
 .navbar {
   overflow: hidden;
