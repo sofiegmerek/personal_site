@@ -58,3 +58,10 @@ Some of my goals for this quarter are
 - [ ] Meet new people
 - [ ] Try to have less stress
 - [X] Get started early
+
+
+# <a name="teaching"></a> Teaching Content (EDS 124BR):
+
+Here is some of my teaching computer science content that I made in my EDS 124BR class.
+
+1. Video on explaining how to [draw a house in snap]https://youtu.be/JIGq2CLCKLk
