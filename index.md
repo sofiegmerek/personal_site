@@ -1,25 +1,60 @@
 <style>
 body, html{
     background-color: #F5E3E0;
-    cursor: url("small.png"), pointer;
     font-family: Tahoma, sans-serif;
-    color: black
-  scroll-behavior: smooth;
- 
+    color: black;
+    scroll-behavior: smooth;
     margin-top: 50px;
-     margin: auto
-  justify-content: center;
-   max-width: 960px
-      background-color: #F5E3E0;
-    cursor: url("small.png"), pointer;
-    font-family: Tahoma, sans-serif;
-    color: black
-  scroll-behavior: smooth;
+    margin: auto;
+    justify-content: center;
+    max-width: 960px;
 }
+
+.nav ul{
+  background-color: #6E4555;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+      color: black;
+
+}
+
+.nav li{
+   display: inline;
+   float: left;
+       color: black;
+
+}
+
+.nav a{
+  display: block;
+  padding: 8px;
+      color: black;
+
+}
+
+.nav li a:hover {
+  background-color: #d282a6;
+}
+
+
  </style>
 
 
+
+<div class="nav">
+<ul >
+  <li><a href="#headshot">About me</a></li>
+  <li ><a  href="#resume">Resume</a></li>
+  <li><a href="#teaching">Teaching Portfolio</a><li>
+</ul>
+</div>
+
+
+# 
 # Sofie Gmerek
+
 
 <a name="headshot"></a>![my_headshot](headshot1.jpeg) 
 ## Welcome to my personal website, I am currently a computer science student at UCSD and will be graduating in Spring 2023
