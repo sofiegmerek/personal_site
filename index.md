@@ -8,6 +8,7 @@ body, html{
     margin: auto;
     justify-content: center;
     max-width: 960px;
+    margin-top: 30px;
 }
 
 .nav ul{
@@ -18,6 +19,8 @@ body, html{
   padding: 0;
   overflow: hidden;
   color: black;
+  position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
 }
 
 .nav li{
