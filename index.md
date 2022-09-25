@@ -28,6 +28,7 @@ body, html{
    display: inline;
    float: left;
   color: black;
+  margin-top: 5px;
 }
 
 .nav a{
@@ -47,7 +48,7 @@ body, html{
 <div class="nav">
 <ul >
   <li><a href="#headshot">About me</a></li>
-  <li ><a  href="#resume">Resume</a></li>
+  <li ><a href="#resume">Resume</a></li>
   <li><a href="#teaching">Teaching Portfolio</a></li>
 </ul>
 </div>
