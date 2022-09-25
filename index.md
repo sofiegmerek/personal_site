@@ -103,7 +103,7 @@ I think some important actions that help with succeeding in classes at UCSD are:
 3. Be sure to take care of yourself, making sure your health is good and taking time to relax for yourself so you don't burn out.
 
 Some of my goals for this quarter are
-- [ ] To do well in my classes
+- [ ] Learn a lot in my classes
 - [ ] Meet new people
 - [ ] Try to have less stress
 - [X] Get started early
