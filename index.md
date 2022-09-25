@@ -68,7 +68,6 @@ body, html{
 </div>
 
 
-<div class="main">
 
 # Sofie Gmerek
 
@@ -118,4 +117,3 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 
 1. Video on explaining how to use Sequences and [draw a house in SNAP](https://youtu.be/JIGq2CLCKLk)
 
-</div>
