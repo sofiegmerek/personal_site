@@ -13,7 +13,7 @@ body, html{
 
 .main{
     background-color: #F5E3E0;
-    margin: 20px;
+    margin-top: 20px;
     padding:5px
 
 }
