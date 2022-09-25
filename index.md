@@ -30,7 +30,7 @@ body, html{
   overflow: hidden;
   color: black;
   position: fixed;
-  width: 960px;
+  width: 950px;
   top: 0; /* Position the navbar at the top of the page */
 }
 
