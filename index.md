@@ -41,18 +41,16 @@ body, html{
 
  </style>
 
-
-
 <div class="nav">
 <ul >
   <li><a href="#headshot">About me</a></li>
   <li ><a  href="#resume">Resume</a></li>
-  <li><a href="#teaching">Teaching Portfolio</a><li>
+  <li><a href="#teaching">Teaching Portfolio</a></li>
 </ul>
 </div>
 
 
-# 
+
 # Sofie Gmerek
 
 
