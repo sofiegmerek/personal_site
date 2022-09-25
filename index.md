@@ -1,6 +1,6 @@
 <style>
 body, html{
-    background-color: #F5E3E0;
+    background-color: #EBC8c1;
     font-family: Tahoma, sans-serif;
     color: black;
     scroll-behavior: smooth;
@@ -11,7 +11,17 @@ body, html{
     margin-top: 30px;
 }
 
-.nav ul{
+.main{
+    background-color: #F5E3E0;
+    margin: 20px;
+    padding:5px
+
+}
+
+
+.nav ul{    
+ justify-content: center;
+
   background-color: #e8b4bc;;
   list-style-type: none;
   margin: 0px;
@@ -42,6 +52,10 @@ body, html{
   background-color:  #D282A6;
 }
 
+#pic{
+  width:400px;
+}
+
 
  </style>
 
@@ -54,11 +68,12 @@ body, html{
 </div>
 
 
+<div class="main">
 
 # Sofie Gmerek
 
 
-<a name="headshot"></a>![my_headshot](headshot1.jpeg) 
+<a name="headshot" id="pic"></a>![my_headshot](headshot1.jpeg) 
 ## Welcome to my personal website, I am currently a computer science student at UCSD and will be graduating in Spring 2023
 
 **I enjoy programming, gardening, embroidery, and volunteering with the non profit the Doris Dillon School in Cambodia.**
@@ -102,3 +117,5 @@ Some of my goals for this quarter are
 Here is some of my teaching computer science content that I made in my EDS 124BR class.
 
 1. Video on explaining how to use Sequences and [draw a house in SNAP](https://youtu.be/JIGq2CLCKLk)
+
+</div>
