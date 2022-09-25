@@ -11,20 +11,19 @@ body, html{
 }
 
 .nav ul{
-  background-color: #6E4555;
+  background-color: #e8b4bc;;
   list-style-type: none;
-  margin: 0;
+  margin: 0px;
+  margin-bottom:10px;
   padding: 0;
   overflow: hidden;
-      color: black;
-
+  color: black;
 }
 
 .nav li{
    display: inline;
    float: left;
        color: black;
-
 }
 
 .nav a{
@@ -35,7 +34,7 @@ body, html{
 }
 
 .nav li a:hover {
-  background-color: #d282a6;
+  background-color:  #D282A6;
 }
 
 
