@@ -4,7 +4,7 @@ body, html{
     font-family: Tahoma, sans-serif;
     color: black;
     scroll-behavior: smooth;
-    margin-top: 50px;
+    margin-top: 20px;
     margin: auto;
     justify-content: center;
     max-width: 960px;
@@ -13,7 +13,7 @@ body, html{
 
 .main{
     background-color: #F5E3E0;
-    margin-top: 20px;
+    margin-top: 0px;
     padding:5px
 
 }
