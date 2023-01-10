@@ -108,6 +108,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 
 
 1. Explaining a snap program to draw a house 
+<br>
 [![Video of snap program](https://img.youtube.com/vi/dMs0sbFGy_k/default.jpg
 )](https://youtu.be/dMs0sbFGy_k "Explaining a snap program to draw a house")
 
