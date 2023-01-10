@@ -106,7 +106,12 @@ Some of my goals for this quarter are
 
 Here is some of my teaching computer science content that I made in my EDS 124BR class.
 
-[Explaining a snap program to draw a house](https://youtu.be/dMs0sbFGy_k)
+
+1. Explaining a snap program to draw a house 
+[![Video of snap program](https://img.youtube.com/vi/dMs0sbFGy_k/default.jpg
+)](https://youtu.be/dMs0sbFGy_k "Explaining a snap program to draw a house")
+
+[Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
 
 
 </div>
