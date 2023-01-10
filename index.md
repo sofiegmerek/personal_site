@@ -75,13 +75,6 @@ body, html{
 
 **I enjoy programming, gardening, embroidery, and volunteering with the non profit the Doris Dillon School in Cambodia.**
 
-One of the quotes that resonates with me is from Juliette Gordon Low, the founder of Girl Scouts:
->"The work of today is the history of tomorrow and we are it's makers" 
-
-I'd like to welcome you to my page with a : 
-
-``` cout<<"Hello World!"; ```
-
 
 I've made other websites in html and css before and hosted them on github pages, one of my favorites is [Pet The Cow](https://petthecow.com/)
 Here you can see my [resume](#resume) or [me](#headshot).
@@ -113,6 +106,7 @@ Some of my goals for this quarter are
 
 Here is some of my teaching computer science content that I made in my EDS 124BR class.
 
+[Explaining a snap program to draw a house](https://youtu.be/dMs0sbFGy_k)
 
 
 </div>
