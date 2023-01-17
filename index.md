@@ -117,11 +117,17 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of snap program](https://img.youtube.com/vi/quNfyifNqpQ/default.jpg
 )](https://youtu.be/quNfyifNqpQ "Explaining a snap program with repeats/loops")
 
+3. Explaining a Scratch program of an Animal Parade 
+<br>
+[![Video of scratch program](https://img.youtube.com/vi/C-PZUGFYeEc/default.jpg
+)](https://youtu.be/C-PZUGFYeEc "Explaining a scratch program with repeats/loops animal parade")
+
 ### Backup links
 [1. Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
 
 
 [2. Explaining a snap program with repeats/loops](https://youtu.be/quNfyifNqpQ)
 
+[3. Explaining a scratch program with repeats/animal parade](https://youtu.be/C-PZUGFYeEc)
 
 </div>
