@@ -122,6 +122,14 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of scratch program](https://img.youtube.com/vi/C-PZUGFYeEc/default.jpg
 )](https://youtu.be/C-PZUGFYeEc "Explaining a scratch program with repeats/loops animal parade")
 
+3. Explaining a Scratch program of Nested Repeats
+<br>
+[![Video of nested repeat program](https://img.youtube.com/vi/Lko31mF40TQ/default.jpg
+)](https://youtu.be/Lko31mF40TQ "Explaining a scratch program with nested repeats")
+
+
+
+
 ### Backup links
 [1. Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
 
@@ -129,5 +137,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [2. Explaining a snap program with repeats/loops](https://youtu.be/quNfyifNqpQ)
 
 [3. Explaining a scratch program with repeats/animal parade](https://youtu.be/C-PZUGFYeEc)
+
+[4. Explaining a snap program with nested repeats](https://youtu.be/Lko31mF40TQ )
 
 </div>
