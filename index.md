@@ -127,6 +127,10 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of nested repeat program](https://img.youtube.com/vi/Lko31mF40TQ/default.jpg
 )](https://youtu.be/Lko31mF40TQ "Explaining a scratch program with nested repeats")
 
+5. Explaining a Snap program of events
+<br>
+[![Video of events program](https://img.youtube.com/vi/Na9BVrG8Nms/default.jpg
+)]((https://youtu.be/Na9BVrG8Nms )
 
 
 
@@ -139,5 +143,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [3. Explaining a scratch program with repeats/animal parade](https://youtu.be/C-PZUGFYeEc)
 
 [4. Explaining a snap program with nested repeats](https://youtu.be/Lko31mF40TQ )
+
+[5. Explaining a snap program to show the concept of events](https://youtu.be/Na9BVrG8Nms)
 
 </div>
