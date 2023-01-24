@@ -130,7 +130,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 5. Explaining a Snap program of events
 <br>
 [![Video of events program](https://img.youtube.com/vi/Na9BVrG8Nms/default.jpg
-)]((https://youtu.be/Na9BVrG8Nms )
+)]((https://youtu.be/Na9BVrG8Nms "Showing off events")
 
 
 
