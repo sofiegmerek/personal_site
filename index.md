@@ -132,6 +132,10 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of events program](https://img.youtube.com/vi/Na9BVrG8Nms/default.jpg
 )](https://youtu.be/Na9BVrG8Nms "Showing off events")
 
+6. Explaining a Snap program of variables
+<br>
+[![Video of variables program](https://img.youtube.com/vi/cRUbr7yLb_c/default.jpg
+)](https://youtu.be/cRUbr7yLb_c "Showing off evevariablesnts")
 
 
 ### Backup links
@@ -145,5 +149,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [4. Explaining a snap program with nested repeats](https://youtu.be/Lko31mF40TQ )
 
 [5. Explaining a snap program to show the concept of events](https://youtu.be/Na9BVrG8Nms)
+
+[6. Explaining a snap program to show the concept of variables](https://youtu.be/cRUbr7yLb_c)
 
 </div>
