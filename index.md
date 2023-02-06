@@ -137,6 +137,10 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of variables program](https://img.youtube.com/vi/cRUbr7yLb_c/default.jpg
 )](https://youtu.be/cRUbr7yLb_c "Showing off evevariablesnts")
 
+7. Explaining a Snap program of conditional repeats
+<br>
+[![Video of variables program](https://img.youtube.com/vi/ZoF_pA9j2EM/default.jpg
+)](https://youtu.be/ZoF_pA9j2EM "Showing off conditional loops")
 
 ### Backup links
 [1. Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
@@ -151,5 +155,7 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [5. Explaining a snap program to show the concept of events](https://youtu.be/Na9BVrG8Nms)
 
 [6. Explaining a snap program to show the concept of variables](https://youtu.be/cRUbr7yLb_c)
+
+[7. Explaining a snap program to show the concept of conditional repeats](https://youtu.be/ZoF_pA9j2EM)
 
 </div>
