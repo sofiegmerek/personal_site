@@ -147,6 +147,11 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of if program](https://img.youtube.com/vi/ffxAvygd9VA/default.jpg
 )](https://youtu.be/ffxAvygd9VA "Showing off if statements")
 
+9. Explaining a snap program of nested if else statements
+<br>
+[![Video of if program](https://img.youtube.com/vi/7se4hgpSKqM/default.jpg
+)](https://youtu.be/7se4hgpSKqM "Showing off nested if statements")
+
 ### Backup links
 [1. Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
 
@@ -164,5 +169,8 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [7. Explaining a snap program to show the concept of conditional repeats](https://youtu.be/ZoF_pA9j2EM)
 
 [8. Explaining a snap program to show the concept of if statements](https://youtu.be/ffxAvygd9VA)
+
+[9. Explaining a snap program to show the concept of nested if else statements](https://youtu.be/7se4hgpSKqM)
+
 
 </div>
