@@ -152,6 +152,12 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of if program](https://img.youtube.com/vi/7se4hgpSKqM/default.jpg
 )](https://youtu.be/7se4hgpSKqM "Showing off nested if statements")
 
+10. Compound conditionals snap program 
+<br>
+[![Video of compound conditions program](https://img.youtube.com/vi/ySp8W2mX1AA/default.jpg
+)](https://youtu.be/ySp8W2mX1AA  "Showing off compound conditionals")
+
+
 ### Backup links
 [1. Explaining a snap program to draw a house ](https://youtu.be/dMs0sbFGy_k)
 
@@ -171,6 +177,8 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [8. Explaining a snap program to show the concept of if statements](https://youtu.be/ffxAvygd9VA)
 
 [9. Explaining a snap program to show the concept of nested if else statements](https://youtu.be/7se4hgpSKqM)
+
+[10. Explaining a snap program to show the concept of compound conditionals](https://youtu.be/ySp8W2mX1AA)
 
 
 </div>
