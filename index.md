@@ -162,7 +162,11 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 [![Video of blocks program](https://img.youtube.com/vi/W6WmP6VIChQ/default.jpg
 )](https://youtu.be/W6WmP6VIChQ "Showing off blocks")
 
- 
+ 11. Lists Snap program
+ <br>
+[![Video of lists program](https://img.youtube.com/vi/XVHy_Pcz7gc/default.jpg
+)]( https://youtu.be/XVHy_Pcz7gc  "Showing off lists")
+
 
 
 ### Backup links
@@ -189,5 +193,5 @@ Here is some of my teaching computer science content that I made in my EDS 124BR
 
 [10. Explaining a snap program to show the concept of blocks ](https://youtu.be/W6WmP6VIChQ)
 
-
+[11. Explaining a snap program to show the concept of lists ](https://youtu.be/XVHy_Pcz7gc )
 </div>
